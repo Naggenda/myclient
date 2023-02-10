@@ -1,0 +1,36 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Joshua Naggenda",
+      "email": "naggenda@gmail.com",
+      "username": "adminuser",
+      "phone": "0708964362",
+      "amountSaved": "1000000",
+      "amountBorrowed": "150000"
+    },
+    {
+      "name": "Namukwaya Rennitah",
+      "email": "nrenny@gmail.com",
+      "phone": "078965432",
+      "amountSaved": "1200000",
+      "amountBorrowed": "32000",
+      "id": 2
+    },
+    {
+      "name": "Namubiru Maria Keira ",
+      "email": "nkmarie@gmail.com",
+      "phone": "0758947456",
+      "amountSaved": "5200000",
+      "amountBorrowed": "300000",
+      "id": 3
+    }
+  ],
+  "login":[
+    {
+      "id":1,
+      
+      "password": "12345"
+    }
+  ]
+}
